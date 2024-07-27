@@ -1,0 +1,19 @@
+{
+  "name": "abstractfactory",
+  "version": "1.0.0",
+  "description": "Use case for abstract factory pattern",
+  "main": "index.js",   
+   "scripts": {
+    "start": "node index.js",  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeyakarthika",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.12"
+  }
+}

@@ -1,0 +1,214 @@
+2024-07-26T19:07:12.874Z info: Classroom cse a has been created.
+2024-07-26T19:07:38.396Z info: Student jk (3) has been enrolled in cse a.
+2024-07-26T19:23:26.948Z info: Classroom cse a has been created.
+2024-07-26T19:23:27.020Z info: Classroom cse a has been created.
+2024-07-26T19:23:35.918Z info: Classroom a has been created.
+2024-07-26T19:23:35.920Z info: Classroom a has been created.
+2024-07-26T19:23:50.674Z info: Classroom @#$ has been created.
+2024-07-26T19:23:50.675Z info: Classroom @#$ has been created.
+2024-07-26T19:24:12.750Z info: Classroom ss has been created.
+2024-07-26T19:24:12.751Z info: Classroom ss has been created.
+2024-07-26T19:24:34.495Z info: Student avbv (abc) has been enrolled in cse a.
+2024-07-26T19:24:34.496Z info: Student avbv (abc) has been enrolled in cse a.
+2024-07-26T19:29:41.742Z error: Classroom abcdvh does not exist.
+2024-07-26T19:30:14.841Z error: Classroom avbv does not exist.
+2024-07-26T19:30:40.101Z info: Student abc has been removed from cse a.
+2024-07-26T19:30:40.102Z info: Student abc has been removed from cse a.
+2024-07-26T19:31:13.221Z info: Assignment for cse a has been scheduled.
+2024-07-26T19:31:13.222Z info: Assignment for cse a has been scheduled.
+2024-07-26T19:31:42.304Z error: Student 123 is not enrolled in cse a.
+2024-07-26T19:32:10.544Z error: Classroom sss does not exist.
+2024-07-26T19:32:44.229Z info: Assignment for a has been scheduled.
+2024-07-26T19:32:44.230Z info: Assignment for a has been scheduled.
+2024-07-26T19:35:27.631Z info: Classroom cse has been created.
+2024-07-26T19:35:27.636Z info: Classroom cse has been created.
+2024-07-26T19:35:34.685Z info: Classroom 123 has been created.
+2024-07-26T19:35:34.686Z info: Classroom 123 has been created.
+2024-07-26T19:35:57.551Z error: Classroom aa does not exist.
+2024-07-26T19:36:12.619Z error: Classroom bb does not exist.
+2024-07-26T19:36:28.474Z error: Classroom a does not exist.
+2024-07-26T19:36:49.809Z error: Classroom aa does not exist.
+2024-07-26T19:37:12.613Z info: Student a (2) has been enrolled in cse.
+2024-07-26T19:37:12.614Z info: Student a (2) has been enrolled in cse.
+2024-07-26T19:37:26.048Z error: Classroom cse a does not exist.
+2024-07-26T19:37:49.702Z info: Classroom 123 has been deleted.
+2024-07-26T19:37:49.703Z info: Classroom 123 has been deleted.
+2024-07-26T19:38:06.837Z info: Student 2 has been removed from cse.
+2024-07-26T19:38:06.838Z info: Student 2 has been removed from cse.
+2024-07-26T19:38:19.366Z info: Student 1456 has been removed from cse.
+2024-07-26T19:38:19.367Z info: Student 1456 has been removed from cse.
+2024-07-27T00:43:33.028Z info: Classroom cse has been created.
+2024-07-27T00:43:33.042Z info: Classroom cse has been created.
+2024-07-27T00:43:41.502Z error: Classroom cse already exists.
+2024-07-27T00:44:26.019Z info: Student aa (123) has been enrolled in cse.
+2024-07-27T00:44:26.021Z info: Student aa (123) has been enrolled in cse.
+2024-07-27T00:44:48.498Z error: Classroom csse does not exist.
+2024-07-27T00:45:11.341Z error: Student ID 123 already exists in cse.
+2024-07-27T00:45:29.839Z info: Classroom it has been created.
+2024-07-27T00:45:29.840Z info: Classroom it has been created.
+2024-07-27T00:45:51.651Z info: Student aa (123) has been enrolled in it.
+2024-07-27T00:45:51.653Z info: Student aa (123) has been enrolled in it.
+2024-07-27T00:46:20.809Z info: Assignment for cse has been scheduled.
+2024-07-27T00:46:20.813Z info: Assignment for cse has been scheduled.
+2024-07-27T00:46:47.092Z error: Classroom vvv does not exist.
+2024-07-27T00:48:08.042Z info: Assignment for it has been scheduled.
+2024-07-27T00:48:08.044Z info: Assignment for it has been scheduled.
+2024-07-27T00:48:26.585Z info: Assignment for it has been scheduled.
+2024-07-27T00:48:26.587Z info: Assignment for it has been scheduled.
+2024-07-27T00:49:02.593Z error: Assignment tq is not scheduled for cse.
+2024-07-27T00:50:48.265Z info: Assignment cns submitted by Student 123 in cse.
+2024-07-27T00:50:48.266Z info: Assignment submitted by Student 123 in cse.
+2024-07-27T00:51:33.826Z error: Classroom fgh does not exist.
+2024-07-27T00:52:30.023Z info: Assignment cns submitted by Student 123 in cse.
+2024-07-27T00:52:30.024Z info: Assignment submitted by Student 123 in cse.
+2024-07-27T00:53:12.433Z info: Classroom abc has been created.
+2024-07-27T00:53:12.435Z info: Classroom abc has been created.
+2024-07-27T00:53:27.230Z error: Classroom ghj does not exist.
+2024-07-27T00:53:41.801Z info: Classroom abc has been deleted.
+2024-07-27T00:53:41.802Z info: Classroom abc has been deleted.
+2024-07-27T00:55:00.348Z info: Student aa (1) has been enrolled in cse.
+2024-07-27T00:55:00.349Z info: Student aa (1) has been enrolled in cse.
+2024-07-27T00:55:18.291Z info: Student bb (2) has been enrolled in cse.
+2024-07-27T00:55:18.292Z info: Student bb (2) has been enrolled in cse.
+2024-07-27T00:56:22.753Z info: Student 123 has been removed from it.
+2024-07-27T00:58:00.878Z warn: Student 124 was not found in it.
+2024-07-27T00:58:46.738Z warn: Student 123 was not found in it.
+2024-07-27T00:58:59.204Z error: Classroom ece does not exist.
+2024-07-27T00:59:38.220Z error: Classroom werty does not exist.
+2024-07-27T00:59:51.549Z error: Assignment 12345uuytr is not scheduled for cse.
+2024-07-27T01:05:37.169Z info: Classroom cse a has been created.
+2024-07-27T01:05:37.175Z info: Classroom cse a has been created.
+info: Classroom cse a has been created.
+info: Classroom cse a has been created.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Classroom Maths has been created.
+info: Classroom Maths has been created.
+error: Classroom Maths already exists.
+error: Classroom Maths already exists.
+info: Classroom CSE has been created.
+info: Classroom CSE has been created.
+info: Student Akshaya (1) has been enrolled in Maths.
+info: Student Akshaya (1) has been enrolled in Maths.
+error: Student ID 1 already exists in Maths.
+info: Student Harini (2) has been enrolled in Maths.
+info: Student Harini (2) has been enrolled in Maths.
+info: Student Jeyakarthika (1) has been enrolled in CSE.
+info: Student Jeyakarthika (1) has been enrolled in CSE.
+info: Assignment for Maths has been scheduled.
+info: Assignment for Maths has been scheduled.
+info: Student 2 has been removed from Maths.
+info: Student 2 has been removed from Maths.
+info: Assignment Assignment1 submitted by Student 1 in Maths.
+info: Assignment submitted by Student 1 in Maths.
+error: Student 2 is not enrolled in Maths.
+error: Assignment Assignment1 is not scheduled for CSE.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+error: Classroom harini does not exist.
+info: Student 1 (1) has been enrolled in cse.
+info: Student 1 has been enrolled in cse.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Student harini (1) has been enrolled in cse.
+info: Student harini (1) has been enrolled in cse.
+info: Classroom 11 has been created.
+info: Classroom 11 has been created.
+info: Student harini (2) has been enrolled in cse.
+info: Student harini (2) has been enrolled in cse.
+info: Classroom cse1 has been created.
+info: Classroom cse1 has been created.
+info: Assignment for cse has been scheduled.
+info: Assignment for cse has been scheduled.
+error: Classroom abc does not exist.
+error: Classroom abc does not exist.
+info: Assignment for cse has been scheduled.
+info: Assignment for cse has been scheduled.
+error: Classroom harini does not exist.
+info: Assignment abc submitted by Student 1 in cse.
+info: Assignment submitted by Student 1 in cse.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Student harini (1) has been enrolled in cse.
+info: Student harini (1) has been enrolled in cse.
+error: Classroom abc does not exist.
+info: Assignment for cse has been scheduled.
+info: Assignment for cse has been scheduled.
+info: Assignment phy by 8pm submitted by Student 1 in cse.
+info: Assignment submitted by harini (1) in cse.
+info: Classroom it has been created.
+info: Classroom it has been created.
+error: Student ID 1 already exists in cse.
+info: Student jk (2) has been enrolled in cse.
+info: Student jk (2) has been enrolled in cse.
+info: Student jk (2) has been enrolled in it.
+info: Student jk (2) has been enrolled in it.
+info: Student ak (1) has been enrolled in it.
+info: Student ak (1) has been enrolled in it.
+error: Classroom abc does not exist.
+info: Classroom cse has been deleted.
+info: Classroom cse has been deleted.
+error: Classroom harini does not exist.
+error: Classroom ak does not exist.
+warn: Student 3 was not found in it.
+info: Student 1 has been removed from it.
+info: Student 1 has been removed from it.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Student harini (1) has been enrolled in cse.
+info: Student harini (1) has been enrolled in cse.
+info: Assignment for cse has been scheduled.
+info: Assignment for cse has been scheduled.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Student jk (1) has been enrolled in cse.
+info: Student jk (1) has been enrolled in cse.
+info: Student haa (2) has been enrolled in cse.
+info: Student haa (2) has been enrolled in cse.
+error: Classroom asdfg does not exist.
+info: Assignment for cse has been scheduled.
+info: Assignment for cse has been scheduled.
+error: Classroom it does not exist.
+info: Assignment phy submitted by Student 1 in cse.
+info: Assignment submitted by jk (1) in cse.
+error: Classroom ece does not exist.
+info: Student 2 has been removed from cse.
+info: Student 2 has been removed from cse.
+warn: Student 4 was not found in cse.
+error: Classroom cse already exists.
+error: Classroom cse already exists.
+info: Classroom it has been created.
+info: Classroom it has been created.
+info: Student haa (2) has been enrolled in it.
+info: Student haa (2) has been enrolled in it.
+info: Classroom it has been deleted.
+info: Classroom it has been deleted.
+error: Classroom it does not exist.
+error: Classroom it does not exist.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Classroom cse has been created.
+info: Student jeyakarthika (1) has been enrolled in cse.
+info: Student jeyakarthika (1) has been enrolled in cse.
+info: Assignment for cse has been scheduled.
+info: Assignment for cse has been scheduled.
+info: Assignment project1 submitted by Student 1 in cse.
+info: Assignment submitted by jeyakarthika (1) in cse.
+info: Student 1 has been removed from cse.
+info: Student 1 has been removed from cse.
+info: Classroom cse has been deleted.
+info: Classroom cse has been deleted.
+error: Classroom cse does not exist.
+error: Classroom cse does not exist.
+error: Classroom it does not exist.
+info: Classroom it has been created.
+info: Classroom it has been created.
+info: Student jk (1) has been enrolled in it.
+info: Student jk (1) has been enrolled in it.
+error: Student ID 1 already exists in it.
+error: Classroom cse does not exist.
+error: Assignment project1 is not scheduled for it.
+error: Classroom cse does not exist.

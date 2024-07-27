@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const NewsService_1 = require("./NewsService");
+const User_1 = require("./User");
+const newsService = new NewsService_1.NewsService();
+const user1 = new User_1.User('User1');
+const user2 = new User_1.User('User2');
+newsService.attach(user1);
+newsService.attach(user2);
+newsService.newMessage('Breaking News: Observer Pattern in Action!');
+newsService.detach(user1);
+newsService.newMessage('Update: Observer Pattern Example Complete!');

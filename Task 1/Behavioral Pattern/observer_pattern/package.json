@@ -1,0 +1,16 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Observer and Strategy design pattern examples",
+  "main": "dist/main.js",
+  "scripts": {
+    "start": "node dist/main.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

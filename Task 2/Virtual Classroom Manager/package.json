@@ -1,0 +1,22 @@
+{
+  "name": "virtual-classroom-manager",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "Jeyakarthika",
+  "license": "ISC",
+  "description": "Virtual Classroom Manager that handles class scheduling, student attendance, and assignment submissions",
+  "dependencies": {
+    "@types/node": "^20.14.12",
+    "typescript": "^5.5.4",
+    "winston": "^3.13.1"
+  },
+  "devDependencies": {
+    "@types/winston": "^3.0.0"
+  }
+}

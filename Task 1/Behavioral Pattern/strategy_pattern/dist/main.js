@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const PaymentContext_1 = require("./PaymentContext");
+const CreditCardPayment_1 = require("./CreditCardPayment");
+const PaypalPayment_1 = require("./PaypalPayment");
+const creditCardPayment = new CreditCardPayment_1.CreditCardPayment();
+const payPalPayment = new PaypalPayment_1.PayPalPayment();
+const paymentContext = new PaymentContext_1.PaymentContext(creditCardPayment);
+paymentContext.pay(100);
+paymentContext.setStrategy(payPalPayment);
+paymentContext.pay(200);
