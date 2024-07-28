@@ -59,6 +59,13 @@ Commands:
 - Observer Pattern (implied) with the logger.
 - Data Mapper Pattern for handling data operations in ClassroomController.
 
+## Technologies Used
+
+- **TypeScript**: For type-safe JavaScript development
+- **Node.js**: JavaScript runtime for server-side operations
+- **npm**: JavaScript package manager for managing dependencies
+- **Winston**: A versatile logging library for Node.js
+
 # Output:(Exercise-2)
 
 ![image](https://github.com/user-attachments/assets/126c72aa-3b83-4ce6-80e1-0721eb7cd2f2)
