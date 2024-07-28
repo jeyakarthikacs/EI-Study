@@ -52,14 +52,14 @@ Commands:
 - remove_student [student ID] [class name] - Removes a student from a specific classroom.
 - exit - Exits the application.
 
-## Used Design patterns :
+## Design patterns :
 - Singleton Pattern for the logger.
 - Command Pattern for handling user input.
 - Factory Pattern (implied) for creating Classroom and Student instances.
 - Observer Pattern (implied) with the logger.
 - Data Mapper Pattern for handling data operations in ClassroomController.
 
-## Technologies Used
+## Technologies Used:
 
 - **TypeScript**: For type-safe JavaScript development
 - **Node.js**: JavaScript runtime for server-side operations
